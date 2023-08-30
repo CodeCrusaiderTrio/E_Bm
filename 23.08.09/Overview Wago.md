@@ -5,6 +5,8 @@
 - specialized in connection technology
   - started with the cage clamp
 - founded 27. April 1951
+  - originaly by Heinrich Nagel und Friedrich Hohorst
+  - now supervised bei Hohorst family
 - 7.466 Worker
 - passed a revenue >1 billione € last year
 - 9 production sights
