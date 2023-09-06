@@ -1,4 +1,5 @@
 # Overview Wago
+
 ## Stats
 - WAGO GmbH & Co. KG
 - HQ located in Minden
