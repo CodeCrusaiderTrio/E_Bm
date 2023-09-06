@@ -1,6 +1,7 @@
 # Overview Wago
 
-## Stats
+Stats
+-
 - WAGO GmbH & Co. KG
   *photo of logo*
 >
@@ -33,18 +34,26 @@
   - Breslau (Poland)
   - Domdidier (Switzerland)
   - Germantown (Wisconsin, USA)
-  - Noida (Inda)
+  - Noida (India)
   - Tianjin (China)
   - Tokio (Japan)
   - Tremblay-en-France (France)
 >
-- present in >80 Countrys
+- subsidiarys present in >80 Countrys
 >
-- My apprenticeship
+ **My apprenticeship**
+- 
   *stock image for developer*
-  - IT-Specialist of software development
-  - mainly working in the software development department
-    - we get concepts from IT-Analysts
-    - analysts are in contact with the relative department
+- IT-Specialist for software development
+&rarr; mainly working in the software development department
+> we are usualy tasked with inhouse...
+> - Requests
+> - fixing
+> - customization
 
+- we get tickets and demands
+&rarr; conceptualized from IT-Analysts
+- Analysts are in contact with the relative department
+
+*example*
 
