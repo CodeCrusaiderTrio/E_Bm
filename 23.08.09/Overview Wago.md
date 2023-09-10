@@ -3,26 +3,32 @@
 Stats
 -
 - WAGO GmbH & Co. KG
-  *photo of logo*
+  <img src="/23.09.10/819852.5740.1080p.JPEG" width=500/>
 >
 - HQ located in Minden
-  *photo of HQ*
+  <img src="/23.09.10/230823-2023-431777751.jpg" width=500/>
+- I work mostly from the branch office in Päpinghausen
+  <img src="/23.09.10/aufmacher-e1545042057801.jpg" width=500/>
+- Sondershausen in Thüringen
+  <img src="/23.09.10/MM-6910-Customer-Care-DJI-0120-2000x1125-.jpg" width=500/>
 >
 - specialized in connection technology
   - started with the cage clamp
   - now also present in automation and solutions
   &rarr; solutions: creating full systems utilizing our products
-  *photo of CageClamp, controller and server rag*
-<img src="/assets/{9CF189D0-3FB2-416C-A099-EFC49B915796}.png" width=700/>
+  <img src="/23.09.10/247792.0.1080p.JPEG" width=500/>
+  <img src="/23.09.10/s-PROFINET-Knoten-055-2000x2000px.jfif" width=500/>
+<img src="/23.09.10/{9CF189D0-3FB2-416C-A099-EFC49B915796}.png" width=700/>
 >
 - founded 27. April 1951
   - originaly by Heinrich Nagel and Friedrich Hohorst
   - now supervised bei Hohorst family
-  *mabe photo of Heinrich Nagel and/or Friedrich Hohorst*
+  - "Sven Hohorst" Son of Friedrich Hohorst (left management in 2014)
+  <img src="/23.09.10/1-format4.jpg" width=500/>
 >
 - CEO
   - Heiner Lang
-  *photo of Heiner Lang and prod.sights overview*
+    <img src="/23.09.10/Dr-Heiner-Lang_22FAE573-E02C-4C5E-8EEA-AE836B8D5219.webp" width=500/>
 >
 - 7.466 Worker
 >
@@ -43,7 +49,8 @@ Stats
 >
  **My apprenticeship**
 - 
-  *stock image for developer*
+  <img src="/23.09.10/istockphoto-1193278024-612x612.jpg" width=500/>
+
 - IT-Specialist for software development
 &rarr; mainly working in the software development department
 > we are usualy tasked with inhouse...
