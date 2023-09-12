@@ -61,6 +61,11 @@ Stats
 - we get tickets and demands
 &rarr; conceptualized from IT-Analysts
 - Analysts are in contact with the relative department
+  - The analysts highlight what program requirements are needed
 
-*example*
-
+- User Programs
+  &rarr; e.g. Program displays information about a particular material, which can then be changed by the user, saving the newly created materialdata
+- Lists with an underlying logic or Job Programs
+  &rarr; e.g. A Block list for Materialorders which automaticaly stops new orders from being created e.g. if no storage is left
+- Form masks using Adobe Lifecycle editor
+  &rarr; to automaticaly print labels or dokuments in a given format with customer information automaticaly inserted
