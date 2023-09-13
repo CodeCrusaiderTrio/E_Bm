@@ -5,13 +5,6 @@ Stats
 - **WAGO GmbH & Co. KG**
 
 >
-- HQ located in Minden
-
-- I work mostly from the **branch office** in Päpinghausen
-
-- Sondershausen in Thüringen
-
->
 - specialized in connection technology
   - started with the **cage clamp**
   - now also present in **automation** and solutions
@@ -29,9 +22,16 @@ Stats
   - Heiner Lang
 
 >
+- passed a revenue **>1 billione €** last year
+>
 - **7.466 Worker** around the World
 >
-- passed a revenue **>1 billione €** last year
+- HQ located in Minden
+
+- I work mostly from the **branch office** in Päpinghausen
+
+- Sondershausen in Thüringen
+
 >
 - 9 production sights
   - Minden
