@@ -13,3 +13,13 @@ However, there are also some potential drawbacks to cloud computing, such as:
 - **Lack of control:** When data and applications are stored in the cloud, businesses may have less control over them than they would if they were stored on a local server or personal computer
 >
 In conclusion, cloud computing offers many benefits to businesses, including cost savings, scalability, accessibility, and reliability. However, it also comes with some potential drawbacks, such as security risks, dependency on internet connectivity, and lack of control. Businesses should carefully consider these factors when deciding whether or not to adopt cloud computing technology.
+
+<div style="page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
+
+## Sources:
+https://chhabrasolutions.com/the-pros-cons-of-cloud-computing
+https://www.lifewire.com/cloud-computing-explained-2373125
+https://www.zdnet.com/article/cloud-computing-pros-and-cons/
+https://morefield.com/blog/pros-and-cons-of-cloud-computing/
