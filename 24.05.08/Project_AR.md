@@ -58,5 +58,11 @@ https://www.livehome3d.com/useful-articles/ar-in-home-design
 https://triboot.de/virtual-reality-und-augmented-reality-entwicklung/
 (12) AR Collab
 https://medium.com/@nexgitpvtltd/the-advancements-in-vr-and-ar-for-remote-communication-and-collaboration-c415b8003683
+(13) innovae Virtual vs augmented-reality
+https://www.innovae.com/en/industry-40-augmented-and-virtual-reality/
+(14) loewenstark augmented-reality
+https://www.loewenstark.com/wissen/augmented-reality/
+(15) adtance augmented-reality
+https://www.adtance.com/de/blog/2023/was-ist-augmented-reality
 
 Erweiterung der realen Welt durch digitale Informationen
